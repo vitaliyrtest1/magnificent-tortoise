@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+sleep 3
+exit 1
 set -e
 set -o pipefail
 set -v
